@@ -6,6 +6,7 @@ The Swiggy Analysis Dashboard is a Power BI project that provides deep insights 
 It visualizes orders, ratings, delivery times, popular cuisines, and city-level trends to help food delivery businesses optimize operations and enhance customer satisfaction.
 
 🚀 Key Features
+
 📦 Order Analysis – Number of orders, frequency, and peak timings.
 
 🍛 Cuisine Insights – Most popular food categories among customers.
