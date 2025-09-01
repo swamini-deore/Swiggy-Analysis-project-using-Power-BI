@@ -19,6 +19,7 @@ It visualizes orders, ratings, delivery times, popular cuisines, and city-level 
 ⏱️ Delivery Trends – On-time vs delayed deliveries.
 
 🛠️ Tools & Technologies
+
 Visualization Tool: Power BI
 
 Dataset: Swiggy order & restaurant dataset (CSV/Excel/SQL)
@@ -28,29 +29,46 @@ ETL: Power Query for data transformation
 KPIs: Orders, ratings, cuisines, delivery times, restaurant count
 
 📂 Project Structure
+
 project/ │── swiggy-analysis.pbix # Power BI dashboard │── dataset/ # Swiggy dataset (CSV/Excel/SQL) │── screenshots/ # Dashboard images │── README.md
 
 📸 Dashboard Preview
+
 (Add screenshots here for GitHub presentation)
 Examples:
 
 Cuisine popularity
+
 Orders by city
+
 Delivery performance
+
 Customer satisfaction ratings
+
 ▶️ How to Use
+
 Download the .pbix file from this repository.
+
 Open it in Power BI Desktop.
+
 Explore interactive visuals and apply filters for insights.
+
 🔮 Future Enhancements
+
 🔮 Predictive analysis of order demand by time/day.
+
 🌍 Compare Swiggy vs competitors (Zomato, UberEats).
+
 📊 Customer segmentation by spend and preferences.
+
 📱 Mobile-friendly dashboard design.
+
 📜 License
+
 This project is licensed under the MIT License – free to use and modify.
 
 About
+
 🍴 Swiggy Analysis Dashboard is a Power BI project analyzing online food delivery data. It explores customer orders, restaurant performance, cuisines, delivery trends, and ratings. The dashboard provides actionable insights for business growth, customer engagement, and data-driven decision-making in the food delivery sector.
 
 Resources
