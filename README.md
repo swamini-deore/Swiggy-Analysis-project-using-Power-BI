@@ -7,16 +7,26 @@ It visualizes orders, ratings, delivery times, popular cuisines, and city-level 
 
 🚀 Key Features
 📦 Order Analysis – Number of orders, frequency, and peak timings.
+
 🍛 Cuisine Insights – Most popular food categories among customers.
+
 ⭐ Customer Ratings – Distribution of reviews and satisfaction levels.
+
 🏙️ City-Wise Trends – Orders and restaurant distribution across cities.
+
 🏪 Restaurant Performance – Top-performing and underperforming outlets.
+
 ⏱️ Delivery Trends – On-time vs delayed deliveries.
+
 🛠️ Tools & Technologies
 Visualization Tool: Power BI
+
 Dataset: Swiggy order & restaurant dataset (CSV/Excel/SQL)
+
 ETL: Power Query for data transformation
+
 KPIs: Orders, ratings, cuisines, delivery times, restaurant count
+
 📂 Project Structure
 project/ │── swiggy-analysis.pbix # Power BI dashboard │── dataset/ # Swiggy dataset (CSV/Excel/SQL) │── screenshots/ # Dashboard images │── README.md
 
