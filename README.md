@@ -68,22 +68,3 @@ Explore interactive visuals and apply filters for insights.
 
 This project is licensed under the MIT License – free to use and modify.
 
-About
-
-🍴 Swiggy Analysis Dashboard is a Power BI project analyzing online food delivery data. It explores customer orders, restaurant performance, cuisines, delivery trends, and ratings. The dashboard provides actionable insights for business growth, customer engagement, and data-driven decision-making in the food delivery sector.
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
